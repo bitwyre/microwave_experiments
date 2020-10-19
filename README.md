@@ -13,11 +13,16 @@
 
 ### For mac user 
 ```console
-uesrname@barbar:~$  sudo port install uhd
+username@barbar:~$  sudo port install uhd
 username@barbar:~$  sudo port install gnuradio
 ```
 
+### Linux User
+```console
+username@barbar:~$  sudo apt install gnuradio
 
+username@barbar:~$  sudo apt-get install -y libuhd-dev 
+```
 
 
 
