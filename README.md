@@ -3,10 +3,13 @@
 # To do :
 
 1. Design radio block
-2. Crate Phy layer
-3. Create Virtual Interface 
-4. Paramter radio
-5. push code
+2. Define Paramater radio
+3. Create PHY
+4. Create virtual interface
+5. Run USRP
+
+
+# How to use this project ? 
 
 # Copyright
 
