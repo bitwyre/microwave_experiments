@@ -2,5 +2,5 @@
 
 # Copyright
 
-2020, M Dzakwan Falih
-2020, Bitwyre Technologies LLC
+- 2020, M Dzakwan Falih
+- 2020, Bitwyre Technologies LLC
