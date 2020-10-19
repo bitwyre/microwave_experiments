@@ -10,10 +10,8 @@
 
 # Depedency
 
+## For mac user i
 
-## For mac user 
-
-`````````````
 ```console
 uesrname@barbar:~$  sudo port install uhd
 username@barbar:~$  sudo port install gnuradio
