@@ -21,7 +21,7 @@ username@barbar:~$  sudo port install gnuradio
 ```console
 username@barbar:~$  sudo apt install gnuradio
 
-username@barbar:~$  sudo apt-get install -y libuhd-dev 
+username@barbar:~$  sudo apt-get install -y uhd-host libuhd-dev 
 ```
 
 
