@@ -1,7 +1,6 @@
 # Microwave Experiments
 
-# To do :
-
+### To do :
 1. Design radio block
 2. Define Paramater radio
 3. Create PHY
@@ -9,13 +8,16 @@
 5. Run USRP
 
 # Depedency
-
 ## For mac user i
-
 ```console
 uesrname@barbar:~$  sudo port install uhd
 username@barbar:~$  sudo port install gnuradio
 ```
+
+
+
+
+
 
 
 
