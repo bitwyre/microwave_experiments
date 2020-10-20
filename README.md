@@ -7,11 +7,16 @@
 4. Create virtual interface
 5. Run USRP
 
-
-
-
-
 ### For mac user 
+
+If you are using `brew`
+
+```console
+username@barbar:~$  brew install uhd gnuradio
+```
+
+or if you use `port`
+
 ```console
 username@barbar:~$  sudo port install uhd
 username@barbar:~$  sudo port install gnuradio
@@ -23,10 +28,6 @@ username@barbar:~$  sudo apt install gnuradio
 
 username@barbar:~$  sudo apt-get install -y uhd-host libuhd-dev 
 ```
-
-
-
-
 
 
 # Copyright
