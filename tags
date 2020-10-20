@@ -1,9 +1,0 @@
-!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
-!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
-!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
-!_TAG_PROGRAM_NAME	Exuberant Ctags	//
-!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
-!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
-__init__	example/hello_signal.py	/^    def __init__(self):$/;"	m	class:top_block
-tb	example/hello_signal.py	/^    tb = top_block()$/;"	v	class:top_block
-top_block	example/hello_signal.py	/^class top_block(gr.top_block):$/;"	c
