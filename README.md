@@ -37,4 +37,5 @@ username@barbar:~$  sudo apt-get install -y uhd-host libuhd-dev
 ## Contributors
 <table>
     <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/23207299?s=400&u=579c04a4d558b6af7615eaed9600b17484be27a9&v=4" width="100px;" alt=""/><br /><sub><b>Dzakwan Falih</b></sub></a><br /><a href="#" title="Code">?</a></td>
+    <td align="center"><a href="#"><img src="https://avatars1.githubusercontent.com/u/4477337?s=400&u=314a7401fe87ec08422c1366dca4b38880dc7af3&v=4" width="100px;" alt=""/><br /><sub><b>Dendi Suhubdy</b></sub></a><br /><a href="#" title="Code">?</a></td>
 <table>
