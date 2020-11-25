@@ -141,7 +141,7 @@ class atcs(gr.top_block, Qt.QWidget):
         self.blocks_keep_m_in_n_0 = blocks.keep_m_in_n(gr.sizeof_char, 832, 1024, 0)
         self.blocks_file_source_0 = blocks.file_source(gr.sizeof_char*1, '/home/supernode/Downloads/Glen.ts', True, 0, 0)
         self.blocks_file_source_0.set_begin_tag(pmt.PMT_NIL)
-        self.blocks_file_sink_0 = blocks.file_sink(gr.sizeof_gr_complex*1, '/home/supernode/Work/microwave_experiments/signal_block/matap.ts', False)
+        self.blocks_file_sink_0 = blocks.file_sink(gr.sizeof_gr_complex*1, '/home/supernode/Work/microwave_experiments/signal_block/mantap.ts', False)
         self.blocks_file_sink_0.set_unbuffered(False)
 
 

@@ -75,7 +75,7 @@ blocks:
     alias: ''
     append: 'False'
     comment: ''
-    file: /home/supernode/Work/microwave_experiments/signal_block/matap.ts
+    file: /home/supernode/Work/microwave_experiments/signal_block/mantap.ts
     type: complex
     unbuffered: 'False'
     vlen: '1'
